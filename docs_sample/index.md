@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/peaceiris/mkdocs-material-boilerplate/master/docs_sample/images/graduate-cap.png" alt="MkDocs icon" width="170">
-<br>Tugas Komnum<br>DipoLahelas
+<br>Tugas Komnum<br>DipoLahelas@github
 </h1>
 
 ![Eyecatch image of MkDocs Material Boilerplate (Starter Kit)](https://raw.githubusercontent.com/peaceiris/mkdocs-material-boilerplate/master/docs_sample/images/material.png)
@@ -19,12 +19,15 @@
 
 
 
-## Details
+## Profil
 
-Read more 👉 [Documentation - MkDocs Material Boilerplate]
+Nama  : Khansa Daffa Zulhazmi
 
-[Documentation - MkDocs Material Boilerplate]: https://peaceiris.github.io/mkdocs-material-boilerplate/
+NIM   : 190411100082
 
+Kelas : Komnum A
+
+Dosen : []
 
 
 ## Quick start
@@ -59,9 +62,3 @@ inv serve --config-file mkdocs-sample.yml
 [Freepik]: https://www.freepik.com/
 [www.flaticon.com]: https://www.flaticon.com/
 [CC 3.0 BY]: http://creativecommons.org/licenses/by/3.0/
-
-
-
-## About Maintainer
-
-- [peaceiris Homepage](https://peaceiris.com/)

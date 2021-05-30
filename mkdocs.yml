@@ -68,6 +68,7 @@ extra:
 nav:
   - 'Home': 'index.md'
   - 'Material for MkDocs': 'material-for-mkdocs.md'
+  - 'Integrasi Numerik': 'integrasi.md'
   - 'Getting started':
     - 'Download boilerplate': 'getting-started/download-boilerplate.md'
     - 'pipenv': 'getting-started/pipenv.md'
